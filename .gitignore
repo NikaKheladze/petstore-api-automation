@@ -1,0 +1,30 @@
+# Build output
+target/
+out/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+.factorypath
+
+# Allure (raw results, generated reports, plugin-downloaded runtime)
+allure-results/
+allure-report/
+.allure/
+
+# Local, machine-specific configuration
+src/test/resources/config/config.local.properties
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
