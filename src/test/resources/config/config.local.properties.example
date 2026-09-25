@@ -1,0 +1,4 @@
+# Copy to config.local.properties (git-ignored) and keep only the keys you want to override locally.
+# Example: run against a local Petstore container (docker run -p 8080:8080 swaggerapi/petstore)
+# petstore.base.url=http://localhost:8080
+# petstore.base.path=/v2
